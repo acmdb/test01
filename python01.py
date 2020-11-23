@@ -1,2 +1,3 @@
 print("Hello, World!")
-print("Hello modified file.")
+print("File modified.")
+print("Originally modified again in branch child.")
